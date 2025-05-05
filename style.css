@@ -577,6 +577,7 @@ a{
         align-self: center;
         color: #000;
         text-decoration: none;
+        margin-bottom: 1rem;
     }
     .hero_wa_button div{
         display: flex;
