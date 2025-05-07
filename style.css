@@ -85,6 +85,7 @@ body{
 }
 .phone_item .icon{
     margin-right: 0.6rem;
+    width: 2rem;
 }
 .phone_item a{
     text-decoration: none;
